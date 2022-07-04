@@ -17,6 +17,14 @@ To solve this problem, we fork invesdwin-instrument v1.0.14 and replace the orig
       <url>https://github.com/rchemist/release-invesdwin-instrument/raw/main/releases</url>
     </repository>
 </repositories>
+
+<dependencies>
+  <dependency>
+    <groupId>de.invesdwin</groupId>
+    <artifactId>invesdwin-instrument</artifactId>
+    <version>1.0.14</version>
+  </dependency>
+</dependencies>
 ```
 
 # Have fun!
