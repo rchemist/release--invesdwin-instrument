@@ -22,9 +22,12 @@ To solve this problem, we fork invesdwin-instrument v1.0.14 and replace the orig
   <dependency>
     <groupId>de.invesdwin</groupId>
     <artifactId>invesdwin-instrument</artifactId>
-    <version>1.0.14</version>
+    <version>@latest</version>
   </dependency>
 </dependencies>
 ```
+
+- SpringBoot2 : @latest is 1.0.14
+- SpringBoot3 : @latest is 1.0.14.1
 
 # Have fun!
